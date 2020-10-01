@@ -1,4 +1,4 @@
-//program of a palindrome
+//program of a palindrome in c
 #include <stdio.h>
 int main() {
     int n, reversedN = 0, remainder, originalN;
